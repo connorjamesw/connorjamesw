@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @connorjamesw
-- 👀 I’m interested in data and statistics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Python
 
 <!---
 connorjamesw/connorjamesw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
